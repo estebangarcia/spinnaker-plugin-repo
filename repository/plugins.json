@@ -8,7 +8,7 @@
             "version": "0.0.16",
             "date": "2020-12-15T11:45:22.326736Z",
             "requires": "echo>=0.0.0,deck>=0.0.0",
-            "sha512sum": "34afc53a9ef4e3d115c6bfbc4457cd71d5e4c2bc13631f21ba9d722a4e019431ac09d3777d77eadd3f7b09a7272b0a4f6a7ba543a87e5f2bb4dda71420b6b2f0",
+            "sha512sum": "e1edbb452b320b5ac76719faef1db9c615d4049d1100d12ae54e48813594c31487c8b8e1a5c0960ea337bd4aacef045c41e4b217d2f0da1d46ad8ca6d934b4bd",
 			"url": "https://github.com/ExitoLab/spinnaker-ms-teams-notification-plugin/releases/download/v0.0.16/spinnaker-ms-teams-notification-plugin-v0.0.16.zip",
             "state": "RELEASE"
         }
